@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+flat1:
+  name: Flat1
+  address: 1 townstreet
+  description: First flat
+  price_per_night: 100
+  number_of_guests: 50
+
+flat2:
+  name: Flat2
+  address: 2 townstreet
+  description: Second flat
+  price_per_night: 150
+  number_of_guests: 25
